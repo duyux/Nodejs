@@ -1,0 +1,16 @@
+{
+  "name": "learn-express-20250526",
+  "version": "1.0.0",
+  "description": "test express",
+  "license": "ISC",
+  "author": "du",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.3"
+  }
+}
