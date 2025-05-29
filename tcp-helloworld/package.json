@@ -1,0 +1,12 @@
+{
+  "name": "tcp-helloworld",
+  "version": "1.0.0",
+  "description": "tcp learn",
+  "license": "ISC",
+  "author": "du",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
