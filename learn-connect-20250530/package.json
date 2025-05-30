@@ -1,0 +1,17 @@
+{
+  "name": "learn-connect-20250530",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "du",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "connect": "^3.7.0",
+    "morgan": "^1.10.0",
+    "serve-static": "^2.2.0"
+  }
+}
